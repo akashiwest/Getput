@@ -1,2 +1,2 @@
-# Getput
+# 兴趣展柜 / Getput
 遇见兴趣，收集兴趣，展示兴趣。 / Get likes, put likes, show your likes.
